@@ -1,2 +1,1 @@
-# wsp
-Yo
+game:GetService("StarterGui"):SetCore("SendNotification",{ 													Title = "SUCCESS", 													Text = "PRIVATE SERVER COPY IN UR CLIPBOARD", 													Button1 = "THXX", Duration = 15 , })  print ("NO PROBLEM") setclipboard ('https://www.roblox.com/games/2788229376/Da-Hood?privateServerLinkCode=73324034087300237213777089466093&AssetId=2788229376')
